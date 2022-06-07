@@ -1,0 +1,4 @@
+Git Init -> Criar um repositório git no seu projeto pessoal (Criação da pasta .git)
+Git commit -m "" -> Adiciona as alterações mais recentes do seu código para o repositório
+Git add -> Adiciona todos os arquivos no diretório a serem comitados
+Git push origin main -> Envia todo o conteúdo que você alterou ou comitou do repositório local para um repositório remoto.
