@@ -3,3 +3,4 @@ Repositório criado para o Desafio de projeto
 
 ## Links Úteis
 [Sintaxe básica do Markdown](https://www.markdownguide.org/basic-syntax/)
+[Site da plataforma](https://www.dio.me/)
